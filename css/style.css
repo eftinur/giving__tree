@@ -160,6 +160,10 @@
     padding-bottom: 7px;
 }
 
+.input-wrapper input:focus{
+    outline: none;
+}
+
 .btn-wrapper{
     margin-top: 15px;
 }
