@@ -129,6 +129,16 @@
     text-transform: uppercase;
 }
 
+.box:hover{
+    background-color: #b4fbc5;
+    border: 1px solid #46C965;
+}
+
+.box:hover a{
+    color: #46C965;
+}
+
+
 .amount-custom{
     display: flex;
     justify-content: center;
