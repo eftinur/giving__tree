@@ -74,8 +74,8 @@
 /* == opening donate area == */
 
 #donate{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     background-color: #fff;
 }
 
@@ -171,8 +171,7 @@
 /* == opening plan area == */
 
 #plan{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
     background-color: #fff;
 }
 
@@ -215,8 +214,7 @@
 /* == opening partner area == */
 
 #partner{
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 70px;
 }
 
 .partner-title{
@@ -276,8 +274,7 @@
 /* == opening newsletter area == */
 
 #newsletter{
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .main{
